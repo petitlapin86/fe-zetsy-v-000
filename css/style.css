@@ -30,10 +30,9 @@ body {
 }
 
 #picture { /* selects <h1> if inside the id="logo" */
-  box-sizing: : content-box;
-	color: #8A9E96;
-	border: 5px;
+	border: 5px rgb(152,173,166) solid;
 }
+
 
 
 #press {
