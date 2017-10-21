@@ -23,6 +23,7 @@ body {
   font-family: "Baskerville.ttc", serif;
 	color: #8A9E96;
 	font-size: 5em;
+	font-weight: normal;
 	margin: 0 0 5px;
 	padding-bottom: 10px;
 	border-bottom: 1px solid #ccc;
