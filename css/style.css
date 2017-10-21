@@ -31,6 +31,7 @@ body {
 
 #picture { /* selects <h1> if inside the id="logo" */
 	border: 5px rgb(152,173,166) solid;
+	color: #ccc
 }
 
 #press {
