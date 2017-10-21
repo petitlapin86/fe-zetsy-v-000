@@ -20,9 +20,11 @@ body {
 /* Write all remaining styles here */
 /* my attempt to change Zesty logo below*/
 #logo h1 { /* selects <h1> if inside the id="logo" */
-  font-family: "Baskerville.ttc", cursive;
+  font-family: "Baskerville.ttc", serif;
 	color: #8A9E96;
-	font-size: 6em;
+	font-size: 5em;
+	margin: 0 0 5px;
+	padding-bottom: 10px;
 	border-bottom: 1px solid #ccc;
 }
 
