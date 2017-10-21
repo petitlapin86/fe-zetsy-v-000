@@ -8,6 +8,7 @@ body {
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif;
+	color: #ccc;
 }
 
 .wrapper {
@@ -33,9 +34,9 @@ body {
 	border: 5px rgb(152,173,166) solid;
 }
 #mainfont { /* selects <h1> if inside the id="logo" */
+  font-family: "Times New Roman", serif;
 	font-size: 2em;
 	color: #ccc;
-	font-family: Times;
 }
 
 #press {
