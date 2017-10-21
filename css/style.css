@@ -48,6 +48,7 @@ body {
 footer {
 	text-align: right;
 	background: #fff;
+	font-size: 0.8em;
 }
 
 #borders { /* selects <h1> if inside the id="logo" */
