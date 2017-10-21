@@ -22,4 +22,6 @@ body {
 #logo h1 { /* selects <h1> if inside the id="logo" */
   font-family: "Baskerville", cursive;
 	color: #8A9E96;
+	font-size: 6em;
+	
 }
