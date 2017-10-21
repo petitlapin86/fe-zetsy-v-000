@@ -39,6 +39,7 @@ body {
 #press {
 	margin-bottom: 20px;
 	background: #fff;
+	position: relative;
 }
 #press img {
 	border: 5px #ccc solid;
