@@ -41,6 +41,7 @@ body {
 	background: #fff;
 	position: relative;
 	max-width: 100%;
+	display: inline-block;
 }
 #press img {
 	border: 5px #ccc solid;
