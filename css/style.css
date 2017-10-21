@@ -56,4 +56,10 @@ footer {
 
 #borders { /* selects <h1> if inside the id="logo" */
 	border: 5px #fff solid;
+	margin-bottom: 20px;
+	background: #fff;
+	position: relative;
+	max-width: 100%;
+	display: inline-block;
+	
 }
