@@ -23,5 +23,10 @@ body {
   font-family: "Baskerville.ttc", cursive;
 	color: #8A9E96;
 	font-size: 6em;
-	
+}
+
+#picture { /* selects <h1> if inside the id="logo" */
+  box-sizing: : content-box;
+	color: #8A9E96;
+	border: 5px;
 }
