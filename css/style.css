@@ -40,6 +40,7 @@ body {
 	margin-bottom: 20px;
 	background: #fff;
 	position: relative;
+	max-width: 100%;
 }
 #press img {
 	border: 5px #ccc solid;
