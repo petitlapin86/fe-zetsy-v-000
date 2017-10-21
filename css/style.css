@@ -30,3 +30,7 @@ body {
 	color: #8A9E96;
 	border: 5px;
 }
+
+img {
+  max-width: 100%;
+}
