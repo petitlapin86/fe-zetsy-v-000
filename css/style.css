@@ -7,7 +7,7 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Times New Roman', serif;
 }
 
 .wrapper {
@@ -21,4 +21,5 @@ body {
 /* my attempt to change Zesty logo below*/
 #logo h1 { /* selects <h1> if inside the id="logo" */
   font-family: "Baskerville", cursive;
+	color: #8A9E96;
 }
